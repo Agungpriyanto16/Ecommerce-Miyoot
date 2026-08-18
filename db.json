@@ -1,0 +1,683 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@miyoot.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "761e",
+      "name": "agung",
+      "email": "agung@ok.com",
+      "password": "agung16",
+      "role": "user"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-1766460925953",
+      "date": "2025-12-23T03:35:25.953Z",
+      "items": [
+        {
+          "id": 2,
+          "name": "Blossom Breeze T-Shirt",
+          "image": "/Images/products/f2.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 361000,
+      "shippingAddress": {
+        "fullName": "agung ",
+        "phone": "0897878",
+        "address": "jshdjhsjds",
+        "province": "Jawa Timur",
+        "city": "Surabaya",
+        "postalCode": "08978"
+      },
+      "shippingMethod": "J&T Express",
+      "shippingCost": 12000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766461787300",
+      "date": "2025-12-23T03:49:47.300Z",
+      "items": [
+        {
+          "id": 1,
+          "name": "Botanical Flowers T-Shirt",
+          "image": "/Images/products/f1.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 364000,
+      "shippingAddress": {
+        "fullName": "agung ",
+        "phone": "08756454",
+        "address": "jhdjsjdsd",
+        "province": "DI Yogyakarta",
+        "city": "Kulon Progo",
+        "postalCode": "080797"
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 15000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766487403218",
+      "date": "2025-12-23T10:56:43.218Z",
+      "items": [
+        {
+          "id": 1,
+          "name": "Botanical Flowers T-Shirt",
+          "image": "/Images/products/f1.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 361000,
+      "shippingAddress": {
+        "fullName": "agung",
+        "phone": "08756454",
+        "address": "bhhvhvh",
+        "province": "Sumatera Selatan",
+        "city": "Prabumulih",
+        "postalCode": "08997"
+      },
+      "shippingMethod": "J&T Express",
+      "shippingCost": 12000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766487974330",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T11:06:14.330Z",
+      "items": [
+        {
+          "id": 3,
+          "name": "Floral Essence T-Shirt",
+          "image": "/Images/products/f3.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 364000,
+      "shippingAddress": {
+        "fullName": "agung",
+        "phone": "08566565",
+        "address": "bbbbbbb",
+        "province": "Jawa Barat",
+        "city": "Depok",
+        "postalCode": "08877"
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 15000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766488054457",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T11:07:34.457Z",
+      "items": [
+        {
+          "id": 3,
+          "name": "Floral Essence T-Shirt",
+          "image": "/Images/products/f3.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 364000,
+      "shippingAddress": {
+        "fullName": "lala",
+        "phone": "08566565",
+        "address": "ccccc",
+        "province": "Sumatera Barat",
+        "city": "Bukittinggi",
+        "postalCode": "98888"
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 15000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Sedang Diproses"
+    },
+    {
+      "id": "ORD-1766488188841",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T11:09:48.842Z",
+      "items": [
+        {
+          "id": 3,
+          "name": "Floral Essence T-Shirt",
+          "image": "/Images/products/f3.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 364000,
+      "shippingAddress": {
+        "fullName": "bfbi",
+        "phone": "08566565",
+        "address": "nnnnn",
+        "province": "Sumatera Selatan",
+        "city": "Palembang",
+        "postalCode": "988"
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 15000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Sedang Diproses"
+    },
+    {
+      "id": "ORD-1766499777889",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T14:22:57.889Z",
+      "items": [
+        {
+          "id": 2,
+          "name": "Blossom Breeze T-Shirt",
+          "image": "/Images/products/f2.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 364000,
+      "shippingAddress": {
+        "fullName": "agung",
+        "phone": "08566565",
+        "detail": "",
+        "address": "bbbbbbb",
+        "province": "Jawa Barat",
+        "city": "Depok",
+        "district": "",
+        "postalCode": "08877"
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 15000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766500070736",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T14:27:50.736Z",
+      "items": [
+        {
+          "id": 2,
+          "name": "Blossom Breeze T-Shirt",
+          "image": "/Images/products/f2.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 364000,
+      "shippingAddress": {
+        "fullName": "agung",
+        "phone": "08566565",
+        "detail": "",
+        "address": "bbbbbbb",
+        "province": "Jawa Barat",
+        "city": "Depok",
+        "district": "",
+        "postalCode": "08877"
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 15000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766500129096",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T14:28:49.096Z",
+      "items": [
+        {
+          "id": 2,
+          "name": "Blossom Breeze T-Shirt",
+          "image": "/Images/products/f2.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 359000,
+      "shippingAddress": {
+        "fullName": "agung",
+        "phone": "08566565",
+        "detail": "",
+        "address": "bbbbbbb",
+        "province": "Jawa Barat",
+        "city": "Depok",
+        "district": "",
+        "postalCode": "08877"
+      },
+      "shippingMethod": "SiCepat Reguler",
+      "shippingCost": 10000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766527129728",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T21:58:49.728Z",
+      "items": [
+        {
+          "id": 2,
+          "name": "Blossom Breeze T-Shirt",
+          "image": "/Images/products/f2.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 361000,
+      "shippingAddress": {
+        "fullName": "ssffgg",
+        "phone": "0889776666",
+        "address": "bonek",
+        "province": "Jawa Timur",
+        "city": "Surabaya",
+        "postalCode": "0098"
+      },
+      "shippingMethod": "J&T Express",
+      "shippingCost": 12000,
+      "paymentMethod": "E-Wallet (GoPay, OVO, DANA, ShopeePay)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766527318616",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T22:01:58.616Z",
+      "items": [
+        {
+          "id": 14,
+          "name": "Light Gray Short",
+          "image": "/Images/products/n6.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 369000,
+      "shippingAddress": {
+        "fullName": "vvbbnn",
+        "phone": "0865544455",
+        "address": "nila",
+        "province": "Banten",
+        "city": "Serang",
+        "postalCode": "0098"
+      },
+      "shippingMethod": "GoSend Instant",
+      "shippingCost": 20000,
+      "paymentMethod": "E-Wallet (GoPay, OVO, DANA, ShopeePay)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766527653864",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T22:07:33.864Z",
+      "items": [
+        {
+          "id": 6,
+          "name": "Hibiscus Hues T-Shirt",
+          "image": "/Images/products/f6.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 364000,
+      "shippingAddress": {
+        "fullName": "vbnbn",
+        "phone": "667788",
+        "address": "fggnhn",
+        "province": "Bali",
+        "city": "Denpasar",
+        "postalCode": "90088"
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 15000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766528324415",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T22:18:44.415Z",
+      "items": [],
+      "total": 15000,
+      "shippingAddress": {
+        "fullName": "vbnbn",
+        "phone": "667788",
+        "address": "fggnhn",
+        "province": "Bali",
+        "city": "Denpasar",
+        "postalCode": "90088"
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 15000,
+      "paymentMethod": "Kartu Kredit / Debit",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766528446359",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T22:20:46.359Z",
+      "items": [],
+      "total": 15000,
+      "shippingAddress": {
+        "fullName": "bxjbsjbjs",
+        "phone": "098765666",
+        "address": "sdvfb",
+        "province": "Sumatera Utara",
+        "city": "Medan",
+        "postalCode": "45666"
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 15000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766528660071",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T22:24:20.071Z",
+      "items": [
+        {
+          "id": 3,
+          "name": "Floral Essence T-Shirt",
+          "image": "/Images/products/f3.jpg",
+          "price": 349000,
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "name": "Vivid Vines T-Shirt",
+          "image": "/Images/products/f4.jpg",
+          "price": 349000,
+          "quantity": 1
+        },
+        {
+          "id": 6,
+          "name": "Hibiscus Hues T-Shirt",
+          "image": "/Images/products/f6.jpg",
+          "price": 349000,
+          "quantity": 1
+        },
+        {
+          "id": 14,
+          "name": "Light Gray Short",
+          "image": "/Images/products/n6.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 1414000,
+      "shippingAddress": {
+        "fullName": "bbbbn",
+        "phone": "0987655566",
+        "address": "vbbbjbjgj",
+        "province": "Sumatera Utara",
+        "city": "Medan",
+        "postalCode": "09877"
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 18000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766529371247",
+      "userEmail": "agung16@ok.com",
+      "date": "2025-12-23T22:36:11.247Z",
+      "items": [
+        {
+          "id": 3,
+          "name": "Floral Essence T-Shirt",
+          "image": "/Images/products/f3.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 364000,
+      "shippingAddress": {
+        "fullName": "agung",
+        "phone": "08ufhhfy",
+        "address": "hfhfjfjff",
+        "province": "DI Yogyakarta",
+        "city": "Yogyakarta",
+        "postalCode": "08988"
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 15000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766532485573",
+      "userEmail": "badri@ok.com",
+      "date": "2025-12-23T23:28:05.573Z",
+      "items": [
+        {
+          "id": 3,
+          "name": "Floral Essence T-Shirt",
+          "image": "/Images/products/f3.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 364000,
+      "shippingAddress": {
+        "fullName": "badri",
+        "phone": "0087778878",
+        "address": "nnnmmm",
+        "district": "Asemrowo",
+        "city": "Surabaya",
+        "province": "Jawa Timur",
+        "postalCode": "0088776",
+        "id": 1766532027965,
+        "isPrimary": false
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 15000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766532544700",
+      "userEmail": "badri@ok.com",
+      "date": "2025-12-23T23:29:04.701Z",
+      "items": [
+        {
+          "id": 3,
+          "name": "Floral Essence T-Shirt",
+          "image": "/Images/products/f3.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 364000,
+      "shippingAddress": {
+        "fullName": "badri",
+        "phone": "0087778878",
+        "address": "nnnmmm",
+        "district": "Asemrowo",
+        "city": "Surabaya",
+        "province": "Jawa Timur",
+        "postalCode": "0088776",
+        "id": 1766532027965,
+        "isPrimary": false
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 15000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Menunggu Pembayaran"
+    },
+    {
+      "id": "ORD-1766533834372",
+      "userEmail": "badri@ok.com",
+      "date": "2025-12-23T23:50:34.372Z",
+      "items": [
+        {
+          "id": 3,
+          "name": "Floral Essence T-Shirt",
+          "image": "/Images/products/f3.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 367000,
+      "shippingAddress": {
+        "fullName": "badri",
+        "phone": "08089797",
+        "address": "nknckkdhkhvkd",
+        "district": "Asemrowo",
+        "city": "Jakarta Barat",
+        "province": "DKI Jakarta",
+        "postalCode": "00987",
+        "id": 1766531985973,
+        "isPrimary": true
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 18000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Sedang Diproses"
+    },
+    {
+      "id": "ORD-1766539977728",
+      "userEmail": "agung@ok.com",
+      "date": "2025-12-24T01:32:57.728Z",
+      "items": [
+        {
+          "id": 2,
+          "name": "Blossom Breeze T-Shirt",
+          "image": "/Images/products/f2.jpg",
+          "price": 349000,
+          "quantity": 1
+        },
+        {
+          "id": 1,
+          "name": "Botanical Flowers T-Shirt",
+          "image": "/Images/products/f1.jpg",
+          "price": 349000,
+          "quantity": 1
+        },
+        {
+          "id": 7,
+          "name": "Daisy Drifters Pants",
+          "image": "/Images/products/f7.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 1086600,
+      "shippingAddress": {
+        "fullName": "agung",
+        "phone": "08566565",
+        "address": "jembar",
+        "district": "jember",
+        "city": "Pagar Alam",
+        "province": "Sumatera Selatan",
+        "postalCode": "009988",
+        "id": 1766539964151,
+        "isPrimary": false
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 39600,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Dibatalkan"
+    },
+    {
+      "id": "ORD-1766553310848",
+      "userEmail": "agung@ok.com",
+      "date": "2025-12-24T05:15:10.848Z",
+      "items": [
+        {
+          "id": 3,
+          "name": "Floral Essence T-Shirt",
+          "image": "/Images/products/f3.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 376000,
+      "shippingAddress": {
+        "fullName": "agung",
+        "phone": "08566565",
+        "address": "tambak mayor",
+        "district": "Asemrowo",
+        "city": "Pagar Alam",
+        "province": "Sumatera Selatan",
+        "postalCode": "08988",
+        "id": 1766553274302,
+        "isPrimary": true
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 27000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Sedang Diproses"
+    },
+    {
+      "id": "ORD-1767023373169",
+      "userEmail": "agung@ok.com",
+      "date": "2025-12-29T15:49:33.169Z",
+      "items": [],
+      "total": 13500,
+      "shippingAddress": {
+        "fullName": "agung",
+        "phone": "082143902154",
+        "address": "Jl. Tambak Mayor Baru Gang II No.104",
+        "district": "Asemrowo",
+        "city": "Surabaya",
+        "province": "Jawa Timur",
+        "postalCode": "60182",
+        "id": 1767023365753,
+        "isPrimary": true
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 13500,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Dibatalkan"
+    },
+    {
+      "id": "ORD-1767668592490",
+      "userEmail": "agung@ok.com",
+      "date": "2026-01-06T03:03:12.490Z",
+      "items": [
+        {
+          "id": 2,
+          "name": "Blossom Breeze T-Shirt",
+          "image": "/Images/products/f2.jpg",
+          "price": 349000,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "name": "Floral Essence T-Shirt",
+          "image": "/Images/products/f3.jpg",
+          "price": 349000,
+          "quantity": 1
+        }
+      ],
+      "total": 725000,
+      "shippingAddress": {
+        "fullName": "agung",
+        "phone": "0098977888",
+        "address": "tambak mayor",
+        "district": "Asemrowo",
+        "city": "Medan",
+        "province": "Sumatera Utara",
+        "postalCode": "08877",
+        "id": 1767668525570,
+        "isPrimary": true
+      },
+      "shippingMethod": "JNE Reguler",
+      "shippingCost": 27000,
+      "paymentMethod": "Transfer Bank (BCA, BNI, Mandiri, BRI)",
+      "status": "Sedang Diproses"
+    }
+  ]
+}
